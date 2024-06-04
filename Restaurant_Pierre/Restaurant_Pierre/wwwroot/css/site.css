@@ -20,3 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+body {
+    font-family: var(--font-dm_serif_display), serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-prata), serif;
+}
+

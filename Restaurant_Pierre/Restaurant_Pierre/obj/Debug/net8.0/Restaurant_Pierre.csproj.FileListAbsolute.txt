@@ -502,3 +502,4 @@ C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre\obj\Debug\net8.0\refint
 C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre\obj\Debug\net8.0\Restaurant_Pierre.pdb
 C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre\obj\Debug\net8.0\Restaurant_Pierre.genruntimeconfig.cache
 C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre\obj\Debug\net8.0\ref\Restaurant_Pierre.dll
+C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre\obj\Debug\net8.0\Restaurant_Pierre.sourcelink.json
