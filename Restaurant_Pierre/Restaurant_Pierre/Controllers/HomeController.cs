@@ -1,4 +1,5 @@
 using IDGS902.CATestApi.ApiClima;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Restaurant_Pierre.Models;
 using System.Diagnostics;
@@ -6,6 +7,7 @@ using System.Text.Json;
 
 namespace Restaurant_Pierre.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;

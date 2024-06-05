@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\ProyectoAndres902\Restaurant_Pierre\Restaurant_Pierre
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Acceso/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

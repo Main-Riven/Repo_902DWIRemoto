@@ -3,80 +3,16 @@
   "WorkspaceRootPath": "C:\\ProyectoAndres902\\Restaurant_Pierre\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\mostrarproductoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\mostrarproductoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\mostrarproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\mostrarproductoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\models\\mostrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\models\\mostrarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\pedidoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\pedidoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,246 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Restaurant_Pierre\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAQwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-04T01:21:36.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\MostrarProductoes\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\MostrarProductoes\\Index.cshtml",
               "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\MostrarProductoes\\Index.cshtml",
               "RelativeToolTip": "Restaurant_Pierre\\Views\\MostrarProductoes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:18:44.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:18:08.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:16:47.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:16:59.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:16:57.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:16:49.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Program.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Program.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Program.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T00:52:31.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T17:06:01.458Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MostrarProductoesController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAuwCkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:35:03.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-04T01:16:20.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T17:05:15.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Pedidoes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Pedidoes\\Index.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Pedidoes\\Index.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\Pedidoes\\Index.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
+              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
+              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
+              "RelativeToolTip": "Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T20:40:02.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "prueba.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\prueba.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\prueba.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\prueba.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\prueba.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T00:47:34.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MostrarProducto.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Models\\MostrarProducto.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Models\\MostrarProducto.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Models\\MostrarProducto.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Models\\MostrarProducto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:29:20.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:30:44.47Z",
+              "WhenOpened": "2024-06-05T17:00:44.068Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Services\\ProductoService.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Services\\ProductoService.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Services\\ProductoService.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Services\\ProductoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:23:38.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TurnoesController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\TurnoesController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\TurnoesController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\TurnoesController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\TurnoesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T00:47:35.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T00:43:09.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductoesController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\ProductoesController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\ProductoesController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\ProductoesController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\ProductoesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAClAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T20:24:41.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Productoes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Productoes\\Index.cshtml",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Productoes\\Index.cshtml",
-              "RelativeToolTip": "Restaurant_Pierre\\Views\\Productoes\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T19:28:21.124Z"
             }
           ]
         }

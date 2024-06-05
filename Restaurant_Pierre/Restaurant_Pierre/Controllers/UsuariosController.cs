@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -9,6 +10,7 @@ using Restaurant_Pierre.Models;
 
 namespace Restaurant_Pierre.Controllers
 {
+    [Authorize]
     public class UsuariosController : Controller
     {
         private readonly PierreRestaurantContext _context;

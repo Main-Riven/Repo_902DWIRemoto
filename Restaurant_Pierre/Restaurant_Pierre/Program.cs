@@ -1,14 +1,25 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Restaurant_Pierre.Models;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//- CONFIGURAR NUESTRA COOKIE DE AUTENTICACION =================
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(option => {
+        option.LoginPath = "/Acceso/Index";
+        option.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+        option.AccessDeniedPath = "/Home/Privacy";
+    });
+
 builder.Services.AddDbContext<PierreRestaurantContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("Conexion")));
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -23,6 +34,8 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 //app.MapControllerRoute(
@@ -30,6 +43,6 @@ app.UseAuthorization();
 //    pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Acceso}/{action=Index}");
 
 app.Run();
