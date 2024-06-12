@@ -19,8 +19,8 @@ namespace Restaurant_Pierre.Controllers
         {
             ValidarUsuarioService _da_usuario = new();
 
-            var usuario = _da_usuario.ValidarUsuario(_usuario.Usuario1, _usuario.Password);
-
+            var usuario = _da_usuario.ValidarUsuario(_usuario.IdEmpleadoNavigation.Email, _usuario.Usuario1, _usuario.Password);
+            ViewBag.Horror = _da_usuario.Horror;
             if (usuario != null)
             {
 
