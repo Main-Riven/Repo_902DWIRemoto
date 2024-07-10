@@ -1,0 +1,10 @@
+Este sera un documento para describir que comandos he ocupado hasta este punto:
+
+git add
+git commit
+git push
+git branch
+git checkout
+git tag
+git show
+
