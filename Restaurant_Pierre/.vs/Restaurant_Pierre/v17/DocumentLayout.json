@@ -3,28 +3,18 @@
   "WorkspaceRootPath": "C:\\ProyectoAndres902\\Restaurant_Pierre\\",
   "Documents": [
     {
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> Rama_Backend
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-=======
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,61 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-<<<<<<< Updated upstream
-=======
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\services\\validarusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\services\\validarusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> Rama_Backend
     },
     {
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\acceso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\models\\pierrerestaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\models\\pierrerestaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
->>>>>>> Stashed changes
-      "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|solutionrelative:restaurant_pierre\\controllers\\turnoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D71AB2AA-EC4E-48D0-A918-C4C331C7067B}|Restaurant_Pierre\\Restaurant_Pierre.csproj|c:\\proyectoandres902\\restaurant_pierre\\restaurant_pierre\\controllers\\pedidoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,71 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-=======
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 5,
-=======
-          "SelectedChildIndex": 2,
->>>>>>> Stashed changes
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-<<<<<<< Updated upstream
-=======
-              "Title": "ValidarUsuarioService.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Services\\ValidarUsuarioService.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Services\\ValidarUsuarioService.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Services\\ValidarUsuarioService.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Services\\ValidarUsuarioService.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T15:45:18.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccesoController.cs",
-              "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\AccesoController.cs",
-              "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\AccesoController.cs",
-              "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\AccesoController.cs",
-              "RelativeToolTip": "Restaurant_Pierre\\Controllers\\AccesoController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAiwB0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:30:18.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
->>>>>>> Rama_Backend
               "DocumentIndex": 0,
               "Title": "Registrar.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Acceso\\Registrar.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Acceso\\Registrar.cshtml",
               "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Acceso\\Registrar.cshtml",
               "RelativeToolTip": "Restaurant_Pierre\\Views\\Acceso\\Registrar.cshtml",
-<<<<<<< HEAD
               "ViewState": "AQIAAGcAAAAAAAAAAAAAAHcAAAAWAAAA",
-=======
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAWAAAA",
->>>>>>> Rama_Backend
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-11T15:05:32.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 1,
-=======
-              "DocumentIndex": 4,
->>>>>>> Rama_Backend
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
@@ -215,20 +107,11 @@
               "RelativeToolTip": "Restaurant_Pierre\\Views\\Acceso\\Index.cshtml",
               "ViewState": "AQIAAGcAAAAAAAAAAAAAAHYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-07-11T14:57:58.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-=======
               "WhenOpened": "2024-07-11T14:57:58.69Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
->>>>>>> Rama_Backend
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Home\\Index.cshtml",
@@ -236,20 +119,11 @@
               "RelativeToolTip": "Restaurant_Pierre\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-07-11T01:39:41.928Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-=======
               "WhenOpened": "2024-07-11T01:39:41.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
->>>>>>> Rama_Backend
+              "DocumentIndex": 4,
               "Title": "PierreRestaurantContext.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Models\\PierreRestaurantContext.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Models\\PierreRestaurantContext.cs",
@@ -257,20 +131,11 @@
               "RelativeToolTip": "Restaurant_Pierre\\Models\\PierreRestaurantContext.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAjwCwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-07-11T01:39:40.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-=======
               "WhenOpened": "2024-07-11T01:39:40.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
->>>>>>> Rama_Backend
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
@@ -278,20 +143,11 @@
               "RelativeToolTip": "Restaurant_Pierre\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-<<<<<<< HEAD
-              "WhenOpened": "2024-07-11T01:05:25.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-=======
               "WhenOpened": "2024-07-11T01:05:25.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
->>>>>>> Rama_Backend
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\_ViewImports.cshtml",
@@ -303,11 +159,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 6,
-=======
-              "DocumentIndex": 8,
->>>>>>> Rama_Backend
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\_ViewStart.cshtml",
@@ -319,11 +171,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 8,
-=======
-              "DocumentIndex": 10,
->>>>>>> Rama_Backend
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\Error.cshtml",
@@ -335,11 +183,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 9,
-=======
-              "DocumentIndex": 11,
->>>>>>> Rama_Backend
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -351,11 +195,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 10,
-=======
-              "DocumentIndex": 12,
->>>>>>> Rama_Backend
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Views\\Shared\\_Layout.cshtml",
@@ -367,33 +207,19 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 13,
-=======
-              "DocumentIndex": 3,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\UsuariosController.cs",
               "ToolTip": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\UsuariosController.cs",
               "RelativeToolTip": "Restaurant_Pierre\\Controllers\\UsuariosController.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAkwDwAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:30:29.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T18:30:29.584Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 12,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 1,
-=======
-              "DocumentIndex": 14,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "TurnoesController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\TurnoesController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\TurnoesController.cs",
@@ -405,15 +231,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 14,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 3,
-=======
-              "DocumentIndex": 15,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "PedidoesController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\PedidoesController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\PedidoesController.cs",
@@ -426,15 +244,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 11,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 5,
-=======
-              "DocumentIndex": 13,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\HomeController.cs",
@@ -446,15 +256,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 15,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 4,
-=======
-              "DocumentIndex": 16,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "MostrarProductoesController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\MostrarProductoesController.cs",
@@ -466,12 +268,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 2,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 0,
->>>>>>> Rama_Backend
               "Title": "AccesoController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\AccesoController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\AccesoController.cs",
@@ -479,19 +276,11 @@
               "RelativeToolTip": "Restaurant_Pierre\\Controllers\\AccesoController.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAAAA8AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:30:18.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T18:30:18.369Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 16,
-=======
-              "DocumentIndex": 6,
-=======
-              "DocumentIndex": 17,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Controllers\\ClientesController.cs",
@@ -503,15 +292,7 @@
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 17,
-=======
-<<<<<<< Updated upstream
-              "DocumentIndex": 7,
-=======
-              "DocumentIndex": 18,
->>>>>>> Stashed changes
->>>>>>> Rama_Backend
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\ProyectoAndres902\\Restaurant_Pierre\\Restaurant_Pierre\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Restaurant_Pierre\\Models\\Cliente.cs",
