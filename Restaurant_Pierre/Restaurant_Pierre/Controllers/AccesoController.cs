@@ -13,6 +13,10 @@ namespace Restaurant_Pierre.Controllers
         {
             return View();
         }
+        public IActionResult Registrar()
+        {
+            return View();
+        }
 
         [HttpPost]
         public async Task<IActionResult> Index(Usuario _usuario)

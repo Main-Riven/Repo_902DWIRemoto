@@ -30,6 +30,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Acceso/Registrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,10 +72,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Empleadoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9lc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Home/Busqueda.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCdXNxdWVkYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/ProyectoAndres902/Restaurant_Pierre/Restaurant_Pierre/Views/Home/Index.cshtml]
