@@ -14,7 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Restaurant_Pierre")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3569a20a7b92d31a2566250eb1a4ae8b0274c7e")]
+=======
+<<<<<<< Updated upstream
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c6a2ce668e8c07447f39ee7557f829935714c1b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ddc802de0484fa721bff4f504160d34aa1911fe")]
+>>>>>>> Stashed changes
+>>>>>>> Rama_Backend
 [assembly: System.Reflection.AssemblyProductAttribute("Restaurant_Pierre")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Restaurant_Pierre")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

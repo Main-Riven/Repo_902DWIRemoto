@@ -9,6 +9,8 @@ namespace Restaurant_Pierre.Services
     {
         private readonly PierreRestaurantContext _context;
         public string? Horror { get; private set; }
+        public SelectList Datos1 { get; private set; }
+        public SelectList Datos2 { get; private set; }
 
         public ValidarUsuarioService() 
         {
@@ -52,5 +54,31 @@ namespace Restaurant_Pierre.Services
             return user;
 
         }
+
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async void CrearUsuario( Usuario usuario)
+        {
+            
+                _context.Add(usuario);
+                await _context.SaveChangesAsync();
+
+            Datos1 = new SelectList(_context.Empleados, "IdEmpleado", "Nombre", usuario.IdEmpleado);
+            Datos2 = new SelectList(_context.Rols, "IdRol", "Rol1", usuario.IdRol);
+
+
+        }
+        public async void CrearUsuario(Usuario usuario, string Hola)
+        {
+
+
+            Datos1 = new SelectList(_context.Empleados, "IdEmpleado", "Nombre", usuario.IdEmpleado);
+            Datos2 = new SelectList(_context.Rols, "IdRol", "Rol1", usuario.IdRol);
+
+
+        }
+
     }
 }

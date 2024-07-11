@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using Restaurant_Pierre.Models;
 using System.Security.Claims;
 using Restaurant_Pierre.Services;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace Restaurant_Pierre.Controllers
 {
@@ -17,6 +19,11 @@ namespace Restaurant_Pierre.Controllers
         {
             return View();
         }
+
+
+        
+
+
 
         [HttpPost]
         public async Task<IActionResult> Index(Usuario _usuario)
@@ -53,6 +60,32 @@ namespace Restaurant_Pierre.Controllers
             }
 
         }
+        [HttpPost]
+        public IActionResult Registrar([Bind("IdUsuario,Usuario1,Password,IdRol,IdEmpleado")] Usuario usuario) {
+            ValidarUsuarioService _da_usuario = new();
+            string hola = null;
+
+            if (ModelState.IsValid)
+            {
+                
+                _da_usuario.CrearUsuario(usuario);
+                return RedirectToAction(nameof(Index));
+            }
+            _da_usuario.CrearUsuario(usuario, hola);
+            ViewData["IdEmpleado"] = _da_usuario.Datos1;
+            ViewData["IdRol"] = _da_usuario.Datos2;
+            return View(usuario);
+            
+        }
+
+
+
+
+
+
+
+
+
 
         public async Task<IActionResult> Salir()
         {
